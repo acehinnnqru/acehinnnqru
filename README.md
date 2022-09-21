@@ -1,26 +1,11 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm @acehinnnqru</h1>
+<h3 align="center">A developer.</h3>
 
-- 💬 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=acehinnnqru&label=Profile%20views&color=0e75b6&style=flat" alt="acehinnnqru" /> </p>
 
-<!--
----
+<p align="left">
+</p>
 
-<div>
-  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=acehinnnqru&count_private=true&include_all_commits=true&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=acehinnnqru&count_private=true&include_all_commits=true" />
-</div>
--->
-<!--
-**runqianchen/runqianchen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=acehinnnqru&show_icons=true&locale=en" alt="acehinnnqru" /></p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=acehinnnqru&" alt="acehinnnqru" /></p>
